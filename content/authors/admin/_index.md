@@ -45,7 +45,7 @@ education:
     - course: MPH in Epidemiology
       institution: American International University-Bangladesh
       year: 2017
-    -course: Bachelor in Medicine and Surgery
+    - course: Bachelor in Medicine and Surgery
       institution: Sir Salimullah Medical College, Dhaka
       year: 2012
 
