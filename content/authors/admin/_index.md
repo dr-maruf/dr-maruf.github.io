@@ -25,13 +25,14 @@ organizations:
     url: https://www.sheffield.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cell biology, immuno oncologoy, fluorescence microscopy and in-vitro models.
+bio: I am a physician from Bangladesh with a multidisciplinary experience in clinical health, public health, science communication, and molecular biology. I am currently exploring ex-vivo theragnostic models for personalized cancer therapy in solid tumors as a Ph.D. student at the University of Sheffield, UK.
 
 # Interests to show in About widget
 interests:
   - Cancer Cell Biology
   - Fluorescence Microscopy
   - Immuno Oncology
+  - Public Health
 
 # Education to show in About widget
 education:
@@ -123,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a physician from Bangladesh with a multidisciplinary experience in clinical health, public health, science communication, and molecular biology. I am currently exploring ex-vivo theragnostic models for personalized cancer therapy in solid tumors as a Ph.D. student at the University of Sheffield, UK.
 {style="text-align: justify;"}
