@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Md Marufur Rahman
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Md Marufur
+last_name: Rahman
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🥼
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,42 +20,43 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: The University of Sheffield
+    url: https://www.sheffield.ac.uk
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'dr.marufrhmn@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://x.com/DrOpu15
+  - icon: brands/facebook
+    url: https://www.facebook.com/propen
+  - icon: custom/rg
+    url: https://www.researchgate.net/profile/Md-Marufur-Rahman-5
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/ripendil/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=eR_JZWcAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-2996-8109
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Translational Oncology, Immuno Oncology, Cell Biology
+  - Drug Screening, Fluorescence Imaging, Genomics
+  - Disease Modeling, Epidemiology, Public Health
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Oncology and Metabolism
+    icon: custom/uos
+    institution: The University of Sheffield
+    date_start: 2021-10-01
+    date_end: present
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
