@@ -52,7 +52,6 @@ interests:
   - Disease Modeling, Epidemiology, Public Health
 
 education:
-  -icon: custom/uos
   - area: PhD Oncology and Metabolism
     institution: The University of Sheffield
     date_start: 2021-10-01
