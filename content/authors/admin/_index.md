@@ -53,11 +53,12 @@ interests:
 
 education:
   - area: PhD Oncology and Metabolism
+    icon: custom/uos
     institution: The University of Sheffield
     date_start: 2021-10-01
     date_end: 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Exvivo efficacy assessment of targeted inhibitors and immunotherapies for solid cancers_. Supervised by [Prof Sarah Danson](https://www.sheffield.ac.uk/smph/people/clinical-medicine/sarah-danson). Presented abstract at 5 oncology conferences and published 1 paper with T&F journal.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
