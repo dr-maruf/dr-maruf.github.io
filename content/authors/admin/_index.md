@@ -67,34 +67,50 @@ education:
     date_end: 2019-10-09
     summary: |
       Awarded: Distinction
-
+      Dissertation on _Health economic assessment and HRQoL analysis of haematopoietic stem cell transplantation at a UK transplant centre and its application to a developing nation_. Supervised by [Dr Andrew Chantry](https://www.researchgate.net/profile/Andrew-Chantry).
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Human Disease Genetics, Modulating Immunity, Research Literature Review 
+      - From Genome to Gene Function, Human Gene Bioinformatics, Laboratory Practice and Statistics 
+      - The Molecular Basis of Tumourigenesis and Metastasis, Molecular Techniques in Cancer Research
+      - Molecular Approaches to Cancer, Diagnosis and Treatment, Clinical Observation, Dissertation
+  - area: MPH Epidemiology
+    icon: custom/aiub
+    institution: American International University-Bangladesh
+    date_start: 2014-09-02
+    date_end: 2016-01-08
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.96/4.0
+      Dissertation on _Prevalence and Patterns of Substance Abuse among Medical students of Bangladesh_. Supervised by Prof Dr. Md. Nazrul Islam
+      Courses included:
+      - Demography and population dynamics, Introduction to public health and nutrition, Research methodology for healthcare
+      - Epidemiology, Biostatistics, Health education rights and ethics, Reproductive health
+      - Healthcare system management, Healthcare project planning and financing, Health economics 
+      - Epidemiology of infectious diseases, Epidemiology of non communicable diseases, Dissertation
+  - area: MBBS
+    icon: custom/ssmc
+    institution: Sir Salimullah Medical College, University of Dhaka
+    date_start: 2014-01-10
+    date_end: 2012-12-10
+    summary: |
+      Result: Passed (72%)
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Anatomy, Physiology, Biochemistry
+      - Forensic Medicine, Community Medicine, Microbiology, Pathology, Pharmacology
+      - Medicine, Surgery, Obstetrics and Gynaecology
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Doctoral Researcher
+    company_name: The University of Sheffield
+    company_url: 'https://www.sheffield.ac.uk/'
+    company_logo: 'custom/uos'
+    date_start: 2021-10-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Develop and evaluate exvivo drug screening platforms for solid cancers as part of the Ex vivo determined cancer therapy (EVIDENT) project.
+      - Identify current research gaps related to the project, compile data from earlier research, generate data through lab experiments
+      - Prepare reports, protocols, manuscripts as appropriate
+
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
