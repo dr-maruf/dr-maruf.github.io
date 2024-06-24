@@ -53,7 +53,6 @@ interests:
 
 education:
   - area: PhD Oncology and Metabolism
-    icon: custom/uos
     institution: The University of Sheffield
     date_start: 2021-10-01
     date_end: present
