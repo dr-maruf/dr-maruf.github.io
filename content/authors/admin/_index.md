@@ -52,8 +52,8 @@ interests:
   - Disease Modeling, Epidemiology, Public Health
 
 education:
+  -icon: custom/uos
   - area: PhD Oncology and Metabolism
-    icon: custom/uos
     institution: The University of Sheffield
     date_start: 2021-10-01
     date_end: 
@@ -62,12 +62,13 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  -icon: custom/uos
+  - area: MSc Molecular Medicine (Clinical Applications)
+    institution: The University of Sheffield
+    date_start: 2018-09-24
+    date_end: 2019-10-09
     summary: |
-      GPA: 3.8/4.0
+      Awarded: Distinction
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -184,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a physician from Bangladesh with a multidisciplinary experience in clinical health, public health, science communication, and molecular biology. I am currently exploring ex-vivo theragnostic models for personalized cancer therapy in solid tumors as a Ph.D. student at the University of Sheffield, UK.
