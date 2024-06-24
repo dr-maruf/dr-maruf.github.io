@@ -61,7 +61,6 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  -icon: custom/uos
   - area: MSc Molecular Medicine (Clinical Applications)
     institution: The University of Sheffield
     date_start: 2018-09-24
