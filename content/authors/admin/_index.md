@@ -103,8 +103,8 @@ education:
       - Forensic Medicine, Community Medicine, Microbiology, Pathology, Pharmacology
       - Medicine, Surgery, Obstetrics and Gynaecology
 work:
-  - position: Doctoral Researcher
-    company_name: The University of Sheffield
+  - position: Doctoral Researcher <img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/cc14fdc90b89393813a721b8013afa7da91f3549/assets/media/icons/custom/uos.svg" alt="Girl in a jacket" style="width:50px;height:60px;">
+    company_name: The University of Sheffield <img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/cc14fdc90b89393813a721b8013afa7da91f3549/assets/media/icons/custom/uos.svg" alt="Girl in a jacket" style="width:50px;height:60px;">
     company_url: https://www.sheffield.ac.uk/
     company_logo: <img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/cc14fdc90b89393813a721b8013afa7da91f3549/assets/media/icons/custom/uos.svg" alt="Girl in a jacket" style="width:50px;height:60px;">
     date_start: 2021-10-01
@@ -123,7 +123,7 @@ work:
 
   - position: Co-investigator
     company_name: National Institute of Laboratory Medicine & Referral Centre, Dhaka, Bangladesh
-    company_url: 'https://www.nilmrc.gov.bd/'
+    company_url: https://www.nilmrc.gov.bd/
     company_logo: custom/nilmrc
     date_start: 2022-08-30
     date_end: ''
