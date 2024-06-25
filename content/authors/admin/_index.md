@@ -103,7 +103,8 @@ education:
       - Forensic Medicine, Community Medicine, Microbiology, Pathology, Pharmacology
       - Medicine, Surgery, Obstetrics and Gynaecology
 work:
-  -summary: Research Experience
+  -summary: |
+     Research Experience
     - position: Doctoral Researcher
       company_name: 'The University of Sheffield'
       url: 'https://www.sheffield.ac.uk/'
