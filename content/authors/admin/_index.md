@@ -103,10 +103,11 @@ education:
       - Forensic Medicine, Community Medicine, Microbiology, Pathology, Pharmacology
       - Medicine, Surgery, Obstetrics and Gynaecology
 work:
+  - <strong> Research Experience </strong>
   - position: Doctoral Researcher
     company_name: 'The University of Sheffield'
-    company_url: 'https://www.sheffield.ac.uk/'
-    company_logo: '<img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/5c7a2e87b9b90cbe05554e929d61b95d522e8ca9/assets/media/icons/custom/uos.svg" alt="uos" width="20" height="24">'
+    url: 'https://www.sheffield.ac.uk/'
+    icon: <img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/5c7a2e87b9b90cbe05554e929d61b95d522e8ca9/assets/media/icons/custom/uos.svg" alt="uos" width="20" height="24">
     date_start: 2021-10-01
     date_end: ''
     summary: |2-
@@ -114,7 +115,8 @@ work:
       Exvivo efficacy assessment of targeted inhibitors and immunotherapies for solid cancers</strong>
       
       Responsibilities include:
-      <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/welleday.jpg?raw=true" alt="welleday" width="300" height="225" style="float: right; margin: 5px;">- Develop and conduct pre-clinical research experiments as part of Ex vivo determined cancer therapy (EVIDENT) project including drug screening, 2D and 3D cell culture, fluorescence imaging, spatial imaging, ex-vivo drug efficacy assessment. <
+      <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/welleday.jpg?raw=true" alt="welleday" width="300" height="225" style="float: right; margin: 5px;">
+      - Develop and conduct pre-clinical research experiments as part of Ex vivo determined cancer therapy (EVIDENT) project including drug screening, 2D and 3D cell culture, fluorescence imaging, spatial imaging, ex-vivo drug efficacy assessment.
       - Identify current research gaps related to the project, compile data from earlier research, generate data through lab experiments
       - Prepare reports, protocols, manuscripts as appropriate
 
@@ -125,27 +127,32 @@ work:
   - position: Co-investigator
     company_name: 'National Institute of Laboratory Medicine & Referral Centre, Dhaka, Bangladesh'
     company_url: 'https://www.nilmrc.gov.bd/'
-    company_logo: custom/nilmrc
+    company_logo: 'custom/nilmrc'
     date_start: 2022-08-30
     date_end: ''
     summary: |
-      Project title: <h3>A Study of Thalassaemia Diagnosis, Optimal Treatment, Outcome and socio-economic consequences in Bangladesh</h3>
+      <strong> Project title: A Study of Thalassaemia Diagnosis, Optimal Treatment, Outcome and socio-economic consequences in Bangladesh</strong>
       
       Responsibilities include:
+      <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/nilmrc.JPG?raw=true" alt="nilmrc" width="300" height="225" style="float: right; margin: 5px;">
       - Develop screening methodology and laboratory protocol.
       - Plan data collection and analyse results.
       - Prepare reports, protocols, manuscripts as appropriate.
       
   - position: Investigator
-    company_name: Centre for Medical Biotechnology, Directorate General of Health Services, Dhaka, Bangladesh
+    company_name: 'Centre for Medical Biotechnology, Directorate General of Health Services, Dhaka, Bangladesh'
     company_url: 'https://www.dghs.gov.bd/'
     company_logo: custom/dghs
     date_start: 2016-09-16
     date_end: 2021-10-12
     summary: |
-      Projects: <h3>A Study of Thalassaemia Diagnosis, Optimal Treatment, Outcome and socio-economic consequences in Bangladesh</h3>
+      <strong> Projects: 
+      - Bioinformatic analysis of SARS-COV-2 variants in Bangladesh
+      - National COVID-19 Vaccine Deployment and Preparedness
+      - Global burden of disease study 2019</strong> 
       
       Responsibilities include:
+      <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/cmbt.jpg?raw=true" alt="cmbt" width="300" height="225" style="float: right; margin: 5px;">
       - Compile data from earlier research, analyse data from National COVID-19 surveillance database and other public databases including GISAID, formulate hypothesis.
       - Run bioinformatic and computational analysis of SARS-CoV-2 genomic data.
       - Conduct SARS-CoV-2 serological survey in lab, take patient interview.
