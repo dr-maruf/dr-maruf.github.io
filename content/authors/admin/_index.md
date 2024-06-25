@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: PhD Oncology and Metabolism
-    institution: The University of Sheffield
+    institution: The University of Sheffield 
     date_start: 2021-10-01
     date_end: 
     summary: |
@@ -104,15 +104,14 @@ education:
       - Medicine, Surgery, Obstetrics and Gynaecology
 work:
   - position: Doctoral Researcher
-    company_name: The University of Sheffield 
+    company_name: [The University of Sheffield] (https://www.sheffield.ac.uk/) 
     company_url: https://www.sheffield.ac.uk/
-    company_logo: <img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/cc14fdc90b89393813a721b8013afa7da91f3549/assets/media/icons/custom/uos.svg" alt="uos" width="107" height="128">
+    company_logo: <img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/cc14fdc90b89393813a721b8013afa7da91f3549/assets/media/icons/custom/uos.svg" alt="uos" style="float:right;width:107px;height:128px;>
     date_start: 2021-10-01
     date_end: ''
     summary: |2-
-      <img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/cc14fdc90b89393813a721b8013afa7da91f3549/assets/media/icons/custom/uos.svg" alt="Flowers in Chania" width="107" height="128">
       Project title: <h3>Exvivo efficacy assessment of targeted inhibitors and immunotherapies for solid cancers</h3>
-      
+      <img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/cc14fdc90b89393813a721b8013afa7da91f3549/assets/media/welleday.jpg" alt="welleday" style="float:right;width:400px;height:300px;>
       Responsibilities include:
       - Develop and conduct pre-clinical research experiments as part of Ex vivo determined cancer therapy (EVIDENT) project including drug screening, 2D and 3D cell culture, fluorescence imaging, spatial imaging, ex-vivo drug efficacy assessment.
       - Identify current research gaps related to the project, compile data from earlier research, generate data through lab experiments
