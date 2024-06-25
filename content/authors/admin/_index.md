@@ -127,7 +127,7 @@ work:
     company_logo: custom/nilmrc
     date_start: 2022-08-30
     date_end: ''
-    summary: |
+    summary: |3-
       Project title: <h3>A Study of Thalassaemia Diagnosis, Optimal Treatment, Outcome and socio-economic consequences in Bangladesh</h3>
       
       Responsibilities include:
@@ -135,13 +135,13 @@ work:
       - Plan data collection and analyse results.
       - Prepare reports, protocols, manuscripts as appropriate.
       
-    - position: Investigator
+  - position: Investigator
     company_name: Centre for Medical Biotechnology, Directorate General of Health Services, Dhaka, Bangladesh
     company_url: 'https://www.dghs.gov.bd/'
     company_logo: custom/dghs
     date_start: 2016-09-16
     date_end: 2021-10-12
-    summary: |
+    summary: |4-
       Projects: <h3>A Study of Thalassaemia Diagnosis, Optimal Treatment, Outcome and socio-economic consequences in Bangladesh</h3>
       
       Responsibilities include:
