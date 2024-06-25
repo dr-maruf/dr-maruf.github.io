@@ -105,7 +105,7 @@ education:
 work:
   - position: Doctoral Researcher
     company_name: The University of Sheffield 
-     {{< icon name="custom/microsoft" >}}
+     <img src="/workspaces/dr-maruf.github.io/assets/media/icons/custom/uos.svg" alt="Flowers in Chania" width="107" height="128">
     company_url: https://www.sheffield.ac.uk/
     company_logo: custom/uos
     date_start: 2021-10-01
