@@ -103,9 +103,9 @@ education:
       - Forensic Medicine, Community Medicine, Microbiology, Pathology, Pharmacology
       - Medicine, Surgery, Obstetrics and Gynaecology
 work:
-  -icon: custom/uos
   - position: Doctoral Researcher
-    company_name: The University of Sheffield
+    company_name: The University of Sheffield 
+     {{< icon name="custom/microsoft" >}}
     company_url: https://www.sheffield.ac.uk/
     company_logo: custom/uos
     date_start: 2021-10-01
