@@ -104,14 +104,15 @@ education:
       - Medicine, Surgery, Obstetrics and Gynaecology
 work:
   - position: Doctoral Researcher
-    company_name: The University of Sheffield
-    company_url: https://www.sheffield.ac.uk/
-    company_logo: '<img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/5c7a2e87b9b90cbe05554e929d61b95d522e8ca9/assets/media/icons/custom/uos.svg" alt="uos" width="20" height="24" style="float: right; margin: 5px;">'
+    company_name: 'The University of Sheffield'
+    company_url: 'https://www.sheffield.ac.uk/'
+    company_logo: '<img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/5c7a2e87b9b90cbe05554e929d61b95d522e8ca9/assets/media/icons/custom/uos.svg" alt="uos" width="20" height="24">'
     date_start: 2021-10-01
     date_end: ''
     summary: |2-
       <strong> Project title: 
       Exvivo efficacy assessment of targeted inhibitors and immunotherapies for solid cancers</strong>
+      
       Responsibilities include:
       <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/welleday.jpg?raw=true" alt="welleday" width="300" height="225" style="float: right; margin: 5px;">- Develop and conduct pre-clinical research experiments as part of Ex vivo determined cancer therapy (EVIDENT) project including drug screening, 2D and 3D cell culture, fluorescence imaging, spatial imaging, ex-vivo drug efficacy assessment. <
       - Identify current research gaps related to the project, compile data from earlier research, generate data through lab experiments
@@ -122,7 +123,7 @@ work:
       - <a href="https://www.annalsofoncology.org/article/S0923-7534(23)02166-X/fulltext">Efficacy assessment of targeted and immunotherapies for personalised treatment of melanoma using 2D and 3D ex-vivo assays</a>
 
   - position: Co-investigator
-    company_name: National Institute of Laboratory Medicine & Referral Centre, Dhaka, Bangladesh
+    company_name: 'National Institute of Laboratory Medicine & Referral Centre, Dhaka, Bangladesh'
     company_url: 'https://www.nilmrc.gov.bd/'
     company_logo: custom/nilmrc
     date_start: 2022-08-30
