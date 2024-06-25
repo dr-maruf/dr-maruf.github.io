@@ -127,7 +127,7 @@ work:
     company_logo: custom/nilmrc
     date_start: 2022-08-30
     date_end: ''
-    summary: |3-
+    summary: |
       Project title: <h3>A Study of Thalassaemia Diagnosis, Optimal Treatment, Outcome and socio-economic consequences in Bangladesh</h3>
       
       Responsibilities include:
@@ -141,7 +141,7 @@ work:
     company_logo: custom/dghs
     date_start: 2016-09-16
     date_end: 2021-10-12
-    summary: |4-
+    summary: |
       Projects: <h3>A Study of Thalassaemia Diagnosis, Optimal Treatment, Outcome and socio-economic consequences in Bangladesh</h3>
       
       Responsibilities include:
