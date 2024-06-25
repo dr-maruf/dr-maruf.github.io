@@ -105,8 +105,8 @@ education:
 work:
   - position: Doctoral Researcher
     company_name: The University of Sheffield
-    company_url: 'https://www.sheffield.ac.uk/'
-    company_logo: custom/uos
+    company_url: https://www.sheffield.ac.uk/
+    company_logo: <img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/cc14fdc90b89393813a721b8013afa7da91f3549/assets/media/icons/custom/uos.svg" alt="Girl in a jacket" style="width:50px;height:60px;">
     date_start: 2021-10-01
     date_end: ''
     summary: |2-
