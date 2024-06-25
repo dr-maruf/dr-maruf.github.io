@@ -14,16 +14,16 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: Dr Md Marufur Rahman personal website
+    twitter: DrOpu15
   analytics:
-    google_analytics: ''
+    google_analytics: G-LSDKQ47BKX
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: google-site-verification=ZbaLLQVyxgenVsO8LVIyVyDVSWrAAjyRuP7nAlS3mHg
     baidu: ''
 
 # Site header
