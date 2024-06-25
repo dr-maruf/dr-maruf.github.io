@@ -106,7 +106,7 @@ work:
   - position: Doctoral Researcher
     company_name: The University of Sheffield
     company_url: https://www.sheffield.ac.uk/
-    company_logo: 'custom/uos>'
+    company_logo: 'custom/uos'
     date_start: 2021-10-01
     date_end: ''
     summary: |2-
