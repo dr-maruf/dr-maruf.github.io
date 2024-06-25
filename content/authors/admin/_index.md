@@ -104,9 +104,9 @@ education:
       - Medicine, Surgery, Obstetrics and Gynaecology
 work:
   - position: Doctoral Researcher
-    company_name: The University of Sheffield <img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/cc14fdc90b89393813a721b8013afa7da91f3549/assets/icons/custom/uos.svg" alt="Flowers in Chania" width="107" height="128">
-    company_url: https://www.sheffield.ac.uk/
-    company_logo: ''
+    company_name: The University of Sheffield
+    company_url: 'https://www.sheffield.ac.uk/'
+    company_logo: custom/uos
     date_start: 2021-10-01
     date_end: ''
     summary: |2-
