@@ -103,6 +103,7 @@ education:
       - Forensic Medicine, Community Medicine, Microbiology, Pathology, Pharmacology
       - Medicine, Surgery, Obstetrics and Gynaecology
 work:
+  - Title: 'Research'
   - position: Doctoral Researcher
     company_name: 'The University of Sheffield'
     url: 'https://www.sheffield.ac.uk/'
@@ -158,7 +159,6 @@ work:
       - Analyse other public health data from national database, surveys and other sources. Formulate and validate qualitative and quantitative survey tools.
       - Prepare reports, content analysis and manuscripts.
 
-<p>ABCD</p>
 work:
   - position: Doctoral Researcher
     company_name: 'The University of Sheffield'
