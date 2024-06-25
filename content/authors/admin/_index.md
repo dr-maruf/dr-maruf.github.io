@@ -106,7 +106,7 @@ work:
   - position: Doctoral Researcher
     company_name: The University of Sheffield
     company_url: https://www.sheffield.ac.uk/
-    company_logo: {{< icon name="custom/uos" padding_right="3" >}}<img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/cc14fdc90b89393813a721b8013afa7da91f3549/assets/media/icons/custom/uos.svg" alt="uos" style="float:right;width:107px;height:128px;>
+    company_logo: <img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/cc14fdc90b89393813a721b8013afa7da91f3549/assets/media/icons/custom/uos.svg" alt="uos" padding_right="3">
     date_start: 2021-10-01
     date_end: ''
     summary: |2-
