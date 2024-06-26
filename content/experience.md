@@ -12,6 +12,7 @@ design:
 sections:
   - block: resume-experience
     content:
+      title: Research Experience
       username: admin
     design:
       # Hugo date format
@@ -19,9 +20,9 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: resume-cex
-    title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+    content:
+      title: Clinical Experience
+      username: admin
   - block: resume-skills
     content:
       title: Skills & Hobbies
