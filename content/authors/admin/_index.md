@@ -103,11 +103,11 @@ education:
       - Forensic Medicine, Community Medicine, Microbiology, Pathology, Pharmacology
       - Medicine, Surgery, Obstetrics and Gynaecology
 work:
-  - text: 'Research Experience'
+  - text: Research Experience
   - position: Doctoral Researcher
-    company_name: 'The University of Sheffield'
+    company_name: The University of Sheffield
     url: 'https://www.sheffield.ac.uk/'
-    icon: <img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/5c7a2e87b9b90cbe05554e929d61b95d522e8ca9/assets/media/icons/custom/uos.svg" alt="uos" width="20" height="24">
+    text: <img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/5c7a2e87b9b90cbe05554e929d61b95d522e8ca9/assets/media/icons/custom/uos.svg" alt="uos" width="20" height="24">
     date_start: 2021-10-01
     date_end: ''
     summary: |2-
@@ -158,6 +158,13 @@ work:
       - Conduct SARS-CoV-2 serological survey in lab, take patient interview.
       - Analyse other public health data from national database, surveys and other sources. Formulate and validate qualitative and quantitative survey tools.
       - Prepare reports, content analysis and manuscripts.
+
+- block: Clinical-experience
+    id: cex
+    content:
+      title: Clinical Experience
+      text: 
+       adfgsrtdfbsgrth
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
