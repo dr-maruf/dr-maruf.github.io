@@ -159,13 +159,6 @@ work:
       - Analyse other public health data from national database, surveys and other sources. Formulate and validate qualitative and quantitative survey tools.
       - Prepare reports, content analysis and manuscripts.
 
-- block: Clinical-experience
-    id: cex
-    content:
-      title: Clinical Experience
-      text: 
-       adfgsrtdfbsgrth
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
