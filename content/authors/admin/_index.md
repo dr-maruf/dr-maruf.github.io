@@ -103,11 +103,10 @@ education:
       - Forensic Medicine, Community Medicine, Microbiology, Pathology, Pharmacology
       - Medicine, Surgery, Obstetrics and Gynaecology
 work:
-  - text: Research Experience
-  - position: Doctoral Researcher
+  - Title: Research Experience
+    position: Doctoral Researcher
     company_name: The University of Sheffield
     url: 'https://www.sheffield.ac.uk/'
-    text: <img src="https://raw.githubusercontent.com/dr-maruf/dr-maruf.github.io/5c7a2e87b9b90cbe05554e929d61b95d522e8ca9/assets/media/icons/custom/uos.svg" alt="uos" width="20" height="24">
     date_start: 2021-10-01
     date_end: ''
     summary: |2-
