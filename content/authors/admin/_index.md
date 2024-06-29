@@ -138,7 +138,7 @@ work:
       - Plan data collection and analyse results.
       - Prepare reports, protocols, manuscripts as appropriate.
       
-  - position: Investigator
+  - position: Investigator & Deputy Program Manager (Medical Biotechnology)
     company_name: 'Centre for Medical Biotechnology, Directorate General of Health Services, Dhaka, Bangladesh'
     company_url: 'https://www.dghs.gov.bd/'
     company_logo: custom/dghs
@@ -148,16 +148,72 @@ work:
       <strong> Projects: 
       - Bioinformatic analysis of SARS-COV-2 variants in Bangladesh
       - National COVID-19 Vaccine Deployment and Preparedness
-      - Global burden of disease study 2019</strong> 
+      - Global burden of disease study 2019
+      - Feasibility Study of National Newborn Screening for Congenital Hypothyroidism</strong> 
       
       Responsibilities include:
       <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/cmbt.jpg?raw=true" alt="cmbt" width="300" height="225" style="float: right; margin: 5px;">
       - Compile data from earlier research, analyse data from National COVID-19 surveillance database and other public databases including GISAID, formulate hypothesis.
       - Run bioinformatic and computational analysis of SARS-CoV-2 genomic data.
       - Conduct SARS-CoV-2 serological survey in lab, take patient interview.
+      - Conduct feasibility
       - Analyse other public health data from national database, surveys and other sources. Formulate and validate qualitative and quantitative survey tools.
       - Prepare reports, content analysis and manuscripts.
       
+  - position: Post Graduate Student Researcher
+    company_name: 'The University of Sheffield'
+    company_url: 'https://www.sheffield.ac.uk/'
+    company_logo: custom/uos
+    date_start: 2019-02-15
+    date_end: 2019-09-05
+    summary: |
+      <strong> Projects: 
+      - Health economic assessment and HRQoL analysis of haematopoietic stem cell transplantation at a UK transplant centre and its application to a developing nation
+
+      Responsibilities include:
+      <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/cmbt.jpg?raw=true" alt="cmbt" width="300" height="225" style="float: right; margin: 5px;">
+      - Literature review
+      - Develop and validate appropriate questionnaire with qualitative and quantitative components
+      - Conduct patient inteview and collect patient data
+      - Analyse data, prepare report
+
+   - position: Medical Officer
+    company_name: 'Centre for Medical Biotechnology, Management Information System, Directorate General of Health Services, Dhaka, Bangladesh'
+    company_url: 'https://www.dghs.gov.bd/'
+    company_logo: custom/cmbt
+    date_start: 2016-11-16
+    date_end: 2018-09-20
+    summary: |
+      <strong> Projects: 
+      - National Health Bulletin
+      - Health System Strengthening project aided by the World Health Organization
+      - Routine Health Data- DHIS2
+
+      Responsibilities include:
+      <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/cmbt.jpg?raw=true" alt="cmbt" width="300" height="225" style="float: right; margin: 5px;">
+      - Monitor routine health data and train on reporting through national health data management system (DHIS2 software)
+      - Develop and validate appropriate tools for health system performance evaluation of healthcare facilities
+      - Train physicians on basic laboratory techniques used in medical biotechnology
+      - Analyse data, prepare report, prepare annual national health bulletin as managing editor
+
+   - position: Post Graduate Student Researcher
+    company_name: 'American International University-Bangladesh '
+    company_url: 'https://www.aiub.edu/'
+    company_logo: custom/aiub
+    date_start: 2015-06-06
+    date_end: 2016-01-08
+    summary: |
+      <strong> Projects: 
+      - Prevalence and Pattern of Substance Abuse among Medical Students in Bangladesh
+
+      Responsibilities include:
+      <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/cmbt.jpg?raw=true" alt="cmbt" width="300" height="225" style="float: right; margin: 5px;">
+      - Monitor routine health data and train on reporting through national health data management system (DHIS2 software)
+      - Develop and validate appropriate tools for health system performance evaluation of healthcare facilities
+      - Train physicians on basic laboratory techniques used in medical biotechnology
+      - Analyse data, prepare report, prepare annual national health bulletin as managing editor
+
+
 sections:
   - block: 'github.dr-maruf.ripendil'
     content:
