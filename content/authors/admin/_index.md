@@ -157,19 +157,12 @@ work:
       - Conduct SARS-CoV-2 serological survey in lab, take patient interview.
       - Analyse other public health data from national database, surveys and other sources. Formulate and validate qualitative and quantitative survey tools.
       - Prepare reports, content analysis and manuscripts.
-
----
-title: My page
-type: landing
-
-# Add your page sections below
-# Replace <USERNAME> and <BLOCK-NAME> with your GitHub username and block name, respectively.
+      
 sections:
   - block: 'github.dr-maruf.ripendil'
     content:
       title: Clinical Experience
       text: Abcd
----
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
