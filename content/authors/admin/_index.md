@@ -104,8 +104,7 @@ education:
       - Forensic Medicine, Community Medicine, Microbiology, Pathology, Pharmacology
       - Medicine, Surgery, Obstetrics and Gynaecology
 work:
-  - Title: Research Experience
-    position: Doctoral Researcher
+  - position: Doctoral Researcher
     company_name: The University of Sheffield
     url: 'https://www.sheffield.ac.uk/'
     date_start: 2021-10-01
@@ -178,7 +177,7 @@ work:
       - Conduct patient inteview and collect patient data
       - Analyse data, prepare report
 
-   - position: Medical Officer
+  - position: Medical Officer
     company_name: 'Centre for Medical Biotechnology, Management Information System, Directorate General of Health Services, Dhaka, Bangladesh'
     company_url: 'https://www.dghs.gov.bd/'
     company_logo: custom/cmbt
@@ -197,7 +196,7 @@ work:
       - Train physicians on basic laboratory techniques used in medical biotechnology
       - Analyse data, prepare report, prepare annual national health bulletin as managing editor
 
-   - position: Post Graduate Student Researcher
+  - position: Post Graduate Student Researcher
     company_name: 'American International University-Bangladesh '
     company_url: 'https://www.aiub.edu/'
     company_logo: custom/aiub
@@ -219,6 +218,7 @@ sections:
   - block: 'github.dr-maruf.ripendil'
     content:
       title: Clinical Experience
+      subtitle: Amdfeq
       text: Abcd
 
 # Skills
