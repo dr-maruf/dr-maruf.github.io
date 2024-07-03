@@ -233,17 +233,17 @@ work:
 
       /* Slideshow container */
       .slideshow-container {
-        max-width: 400px;
-        position: relative;
-        margin: auto;
+        max-width: 300px;
+        float: right;
+        margin: 5px; 
       }
 
       /* Caption text */
       .text {
-        color: #f2f2f2;
+        color: #000000;
         font-size: 15px;
         padding: 8px 12px;
-        position: absolute;
+        position: relative;
         bottom: 8px;
         width: 100%;
         text-align: center;
@@ -255,7 +255,7 @@ work:
         font-size: 12px;
         padding: 8px 12px;
         position: absolute;
-        top: 0;
+        top: 6;
       }
 
       /* The dots/bullets/indicators */
