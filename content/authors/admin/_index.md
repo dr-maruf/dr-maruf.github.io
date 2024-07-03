@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MBBS, MPH, MSc
+role: MBBS, MPH, MSc<br />
       PhD Student
 
 # Organizations/Affiliations to display in Biography blox
