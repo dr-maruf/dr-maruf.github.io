@@ -110,46 +110,98 @@ work:
     date_start: 2021-10-01
     date_end: ''
     summary: |2-
-      <strong> Project title: 
-      Exvivo efficacy assessment of targeted inhibitors and immunotherapies for solid cancers</strong>
-      
-      Responsibilities include:
+      <strong> Project title: <br /> </strong>
+      - Exvivo efficacy assessment of targeted inhibitors and immunotherapies for solid cancers
+
+      <strong> Responsibilities include:<br /> </strong>
+      <Strong> Research: </strong>
       <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/welleday.jpg?raw=true" alt="welleday" width="300" height="225" style="float: right; margin: 5px;">
       - Develop and conduct pre-clinical research experiments as part of Ex vivo determined cancer therapy (EVIDENT) project including drug screening, 2D and 3D cell culture, fluorescence imaging, spatial imaging, ex-vivo drug efficacy assessment.
       - Identify current research gaps related to the project, compile data from earlier research, generate data through lab experiments
       - Prepare reports, protocols, manuscripts as appropriate
 
-      Published articles:
+      <Strong> Teaching: </strong>
+      - MBChB SSC Research Placement: Provide training on laboratory techniques and mentoring on project report writing.
+
+      <strong> Grants: <br /> </strong>
+      - UK Research and Innovation- Knowledge Exchange Fund: Ex vivo Determined Cancer Therapy (EVIDENT) in melanoma (£ 10,890.67)
+      - Commonwealth PhD Scholarship: Evaluation of ex vivo screening methodology (£ 158,685)
+
+      <strong> Awards: <br /> </strong>
+      - BACR/AstraZeneca Student Awards
+      - OM Departmental Travel Fund
+
+      <strong> Conferences: <br /> </strong>
+      <strong>Talks:</strong>
+      - PGR Symposium 2024: The University of Sheffield
+      - School of Medicine and Population Health Annural Research Meeting 2024: The University of Sheffield
+      - Commonwealth PhD Conference 2024: Cumberland Lodge, UK
+
+      <strong> Posters: <br /> </strong>
+      - European Society for Medical Oncology Congress, October 2023, Barcelona, Spain
+      - BACR Tumour Microenvironment & 3D Model Workshop, September 2023, Nottingham, UK
+      - PGR Symposium 2023, July 2023, The University of Sheffield
+      - BACR Trailblazers in Cancer Research: The Next Generation, June 2023, Manchester, UK
+      - Melanoma Focus Virtual Regional Meeting 2023, May 2023, Virtual
+
+      <strong> Attendance: <br /> </strong>
+
+      <strong> Licenses: <br /> </strong>
+      - Research and Human Tissue Legislation, Medical Research
+      - Full Registration as Medical Practitioner, Bangladesh Medical and Dental Council
+      
+      <strong> Memberships: <br /> </strong>
+      - British Association for Cancer Research
+      - European Association for Cancer Research
+      - European Society for Medical Oncology
+      - UK Cell Adhesion Society
+
+      <strong> Published articles: <br /> </strong>
       - <a href="https://www.tandfonline.com/doi/full/10.1080/1744666X.2024.2336583">In-vitro assays for immuno-oncology drug efficacy assessment and screening for personalized cancer therapy: scopes and challenges</a>
       - <a href="https://www.annalsofoncology.org/article/S0923-7534(23)02166-X/fulltext">Efficacy assessment of targeted and immunotherapies for personalised treatment of melanoma using 2D and 3D ex-vivo assays</a>
 
-  - position: Co-investigator
-    company_name: 'National Institute of Laboratory Medicine & Referral Centre, Dhaka, Bangladesh'
-    company_url: 'https://www.nilmrc.gov.bd/'
-    company_logo: 'custom/nilmrc'
-    date_start: 2022-08-30
-    date_end: ''
+  - position: Deputy Program Manager (Medical Biotechnology) & Investigator
+    company_name: 'Centre for Medical Biotechnology, Directorate General of Health Services, Dhaka, Bangladesh'
+    company_url: 'https://www.dghs.gov.bd/'
+    company_logo: 'custom/cmbt'
+    date_start: 2020-03-08
+    date_end: 2021-10-12
     summary: |
-      <strong> Project title: A Study of Thalassaemia Diagnosis, Optimal Treatment, Outcome and socio-economic consequences in Bangladesh</strong>
+      <strong> Project title: <br /> </strong>
+      - National COVID-19 Vaccine Deployment and Preparedness
+      - National COVID-19 Surveillance System
+      - Bioinformatic Analysis of SARS-COV-2 Variants in Bangladesh
+      - National Medical Biotechnology Workplan Implementation
+      - Feasibility Study of National Newborn Screening for Congenital Hypothyroidism
+      - Global Burden of Disease Study 2019
+      - A Study of Thalassaemia Diagnosis, Optimal Treatment, Outcome and Socio-economic Consequences in Bangladesh
+      - Health System Strenghthening: Healthcare Facility performance evaluation
+      - Risk Communication and Advocacy
+     
       
       Responsibilities include:
       <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/nilmrc.JPG?raw=true" alt="nilmrc" width="300" height="225" style="float: right; margin: 5px;">
-      - Develop screening methodology and laboratory protocol.
+      - Develop tools, SOPs and deployment strategies for individual projects.
+      - Prepare training material and train appropriate stakeholders of individual projects
+      - Monitor and evaluate project performance
+      - Manage finance and workforce involved
       - Plan data collection and analyse results.
       - Prepare reports, protocols, manuscripts as appropriate.
+      - Develop and disseminate communication materials for public and stakeholders using mass media and advocacy discussions.
+      - Monitor SOP compliance and verify laboratory results
       
-  - position: Investigator & Deputy Program Manager (Medical Biotechnology)
+  - position: Medical Officer (Medical Biotechnology)
     company_name: 'Centre for Medical Biotechnology, Directorate General of Health Services, Dhaka, Bangladesh'
     company_url: 'https://www.dghs.gov.bd/'
     company_logo: custom/dghs
-    date_start: 2016-09-16
-    date_end: 2021-10-12
+    date_start: 2020-01-06
+    date_end: 2020-03-08
     summary: |
-      <strong> Projects: 
+      <strong> Projects: <br /> </strong>
       - Bioinformatic analysis of SARS-COV-2 variants in Bangladesh
       - National COVID-19 Vaccine Deployment and Preparedness
       - Global burden of disease study 2019
-      - Feasibility Study of National Newborn Screening for Congenital Hypothyroidism</strong> 
+      - Feasibility Study of National Newborn Screening for Congenital Hypothyroidism
       
       Responsibilities include:
       <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/cmbt.jpg?raw=true" alt="cmbt" width="300" height="225" style="float: right; margin: 5px;">
