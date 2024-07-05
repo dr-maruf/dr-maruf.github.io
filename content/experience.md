@@ -34,12 +34,8 @@ sections:
     content:
       title: Languages
       username: admin
-
-# Add your page sections below
-# Replace <USERNAME> and <BLOCK-NAME> with your GitHub username and block name, respectively.
-sections:
   - block: 'github.dr-maruf.ripendil'
     content:
       title: Clinical Experience
       text: Abcd
----
+
