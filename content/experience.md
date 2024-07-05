@@ -34,9 +34,6 @@ sections:
     content:
       title: Languages
       username: admin
----
-title: My page
-type: landing
 
 # Add your page sections below
 # Replace <USERNAME> and <BLOCK-NAME> with your GitHub username and block name, respectively.

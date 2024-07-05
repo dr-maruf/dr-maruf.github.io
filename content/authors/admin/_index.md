@@ -224,7 +224,7 @@ work:
 
       Responsibilities include: <br />
       <body>
-      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="width=300px, initial-scale=1">
        <style>
       * {box-sizing: border-box;}
        body {font-family: Verdana, sans-serif;}
