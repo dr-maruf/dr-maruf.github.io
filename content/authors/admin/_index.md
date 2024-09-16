@@ -48,12 +48,12 @@ profiles:
     url: https://orcid.org/0000-0002-2996-8109
 
 interests:
-  - Translational Oncology, Immuno Oncology, Cell Biology
-  - Drug Screening, Fluorescence Imaging, Genomics
-  - Disease Modeling, Epidemiology, Public Health
+  - Cancer Screening, Cancer Epidemiology, Clinical Oncology
+  - Personalized Oncology, Clinical Trial, Genomics
+  - Health Program Evaulation, Health Promotion, Science Communication
 
 education:
-  - area: PhD Oncology and Metabolism
+  - area: PhD Oncology and Metabolism (Thesis Submission Stage)
     institution: The University of Sheffield
     date_start: 2021-10-01
     date_end: 

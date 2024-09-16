@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: drbg.svg
+          filename: drbg2.svg
           filters:
             brightness: 0.5
           size: cover
@@ -32,17 +32,13 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Career Summary'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Dr. Md. Marufur Rahman Opu is the Deputy Program Manager for the Center for Medical Biotechnology at the Management Information System division of DGHS. He has been playing a key role as a technical expert and coordinator for the centralized surveillance system for COVID-19 related data-management. He is leading a team to gather, analyse and visualize COVID-19 screening, testing, and hospital data used in policy decisions such as risk zone distributions. He is also a founding member of Platform, a non-profit voluntary group of Bangladeshi doctors, medical and dental students, who are working tirelessly in the DGHS control room, managing PPE for frontline healthcare workers and collecting plasma from recovered patients . He is an advocate for scientific and rational medical practice in Bangladesh.
     design:
       columns: '1'
-  - block: collection
+  #- block: collection
     id: papers
     content:
       title: Featured Publications
@@ -53,7 +49,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
+  #- block: collection
     content:
       title: Recent Publications
       text: ""
@@ -63,7 +59,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+  #- block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -73,7 +69,7 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: collection
+  #- block: collection
     id: news
     content:
       title: Recent News
@@ -102,7 +98,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: cta-card
+  #- block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
