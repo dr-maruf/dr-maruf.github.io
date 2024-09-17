@@ -222,7 +222,8 @@ work:
       <strong> Projects: </strong>
       - Health economic assessment and HRQoL analysis of haematopoietic stem cell transplantation at a UK transplant centre and its application to a developing nation
 
-      Responsibilities include: <br />
+      Responsibilities include: 
+      <!--<br />
       <body>
       <meta name="viewport" content="width=300px, initial-scale=1">
        <style>
@@ -340,7 +341,7 @@ work:
       }
       </script>
       </body>
-      <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/cmbt.jpg?raw=true" alt="cmbt" width="300" height="225" style="float: right; margin: 5px;">
+      <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/cmbt.jpg?raw=true" alt="cmbt" width="300" height="225" style="float: right; margin: 5px;">--->
       - Literature review
       - Develop and validate appropriate questionnaire with qualitative and quantitative components
       - Conduct patient inteview and collect patient data
@@ -395,7 +396,7 @@ sections:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: R
         description: ''
         percent: 80
         icon: code-bracket
@@ -403,7 +404,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Graphpad Prism
         description: ''
         percent: 40
         icon: circle-stack
@@ -427,10 +428,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Bengali
+    percent: 100
+  - name: Hindi
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -465,5 +466,7 @@ awards:
 ---
 
 ## About Me
+I am a physician from Bangladesh, currently working as Doctoral Researcher in Oncology and Metabolism at the University of Sheffield exploring personalized drug efficacy assessment to improve outcomes of advanced solid tumours. I have a multidisciplinary expertise and skillset in health disciplines ranging from molecular medicine to broader public health areas including health program evaluation and disease epidemiology. My former role as Deputy Program Manager at the Management Information System division of the Ministry of Health adn Family Welfare, Bangladesh I played a key role as a technical lead and  coordinator for the centralized surveillance system for COVID-19 and other routine health data systems including several national disease screening programs. I led and supervised several teams to gather, analyse and visualize screening, testing, and hospital data to formulate recommendation for policy decisions. I co-founded he largest social forum of Bangaladeshi doctors and medical students, Platform Doctor's Society where the members are working tirelessly in collaboration with government and non-government bodies in managing national emergency and crisis response, health policy evaluation and activism for physician and patient rights . My career and academic experience allow me to evaluate health issues both vertically focussing in-depth on specialized single events and horizontally focussing on multifactorial determinants and crosstalks.
 
-I am a physician from Bangladesh with a multidisciplinary experience in clinical health, public health, science communication, and molecular biology. I am currently exploring ex-vivo theragnostic models for personalized cancer therapy in solid tumors as a Ph.D. student at the University of Sheffield, UK.
+Outside my core academic and work focus, I am an advocate for scientific and rational medical practice. I develop contents for effective science communication debunking myths arround health issues.
+
