@@ -29,8 +29,8 @@ publishDate: '2023-10-30T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In European Society for Medical Oncology Congress 2023
-publication_short: In ESMO Congress 2023
+publication: In *Hugo Blox Builder Conference*
+publication_short: In *ICW*
 
 abstract: 
 Background
