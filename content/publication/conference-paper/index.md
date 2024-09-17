@@ -1,12 +1,12 @@
 ---
-title: 'An example conference paper'
+title: '2302P Efficacy assessment of targeted and immunotherapies for personalised treatment of melanoma using 2D and 3D ex-vivo assays'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Greg Wells
 
 # Author notes (optional)
 author_notes:
