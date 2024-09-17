@@ -30,15 +30,9 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    id: section-1
-    content:
-      title: Career Summary
-      subtitle: Career Summary
-      text: Dr. Md. Marufur Rahman Opu is the Deputy Program Manager for the Center for Medical Biotechnology at the Management Information System division of DGHS. He has been playing a key role as a technical expert and coordinator for the centralized surveillance system for COVID-19 related data-management. He is leading a team to gather, analyse and visualize COVID-19 screening, testing, and hospital data used in policy decisions such as risk zone distributions. He is also a founding member of Platform, a non-profit voluntary group of Bangladeshi doctors, medical and dental students, who are working tirelessly in the DGHS control room, managing PPE for frontline healthcare workers and collecting plasma from recovered patients . He is an advocate for scientific and rational medical practice in Bangladesh.
   #- block: markdown
     content:
-      title: 'Career Summary'
+      title: '📚 My Research'
       subtitle: ''
       text: |-
         Dr. Md. Marufur Rahman Opu is the Deputy Program Manager for the Center for Medical Biotechnology at the Management Information System division of DGHS. He has been playing a key role as a technical expert and coordinator for the centralized surveillance system for COVID-19 related data-management. He is leading a team to gather, analyse and visualize COVID-19 screening, testing, and hospital data used in policy decisions such as risk zone distributions. He is also a founding member of Platform, a non-profit voluntary group of Bangladeshi doctors, medical and dental students, who are working tirelessly in the DGHS control room, managing PPE for frontline healthcare workers and collecting plasma from recovered patients . He is an advocate for scientific and rational medical practice in Bangladesh.
@@ -55,7 +49,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-  #- block: collection
+  - block: collection
     content:
       title: Recent Publications
       text: ""
@@ -65,7 +59,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  #- block: collection
+  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
