@@ -1,16 +1,12 @@
 ---
-title: '2302P Efficacy assessment of targeted and immunotherapies for personalised treatment of melanoma using 2D and 3D ex-vivo assays'
+title: 'An example conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Greg Wells
-  - Juha Rantala
-  - Thomas Helleday
-  - Munitta Muthana
-  - Sarah Danson
+  - Robert Ford
 
 # Author notes (optional)
 author_notes:
@@ -48,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.annalsofoncology.org/action/showPdf?pii=S0923-7534%2823%2902166-X'
+url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
