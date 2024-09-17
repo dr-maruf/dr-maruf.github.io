@@ -7,13 +7,17 @@ title: '2302P Efficacy assessment of targeted and immunotherapies for personalis
 authors:
   - admin
   - Greg Wells
+  - Juha Rantala
+  - Thomas Helleday
+  - Munitta Muthana
+  - Sarah Danson
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-04-03T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
