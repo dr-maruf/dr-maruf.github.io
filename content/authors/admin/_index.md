@@ -438,35 +438,33 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: BACR/AstraZeneca Student Awards
+    url: https://www.bacr.org.uk/bursaries/bacr-student-awards
+    date: '2023-10-23'
+    awarder: The British Association for Cancer Research
+    icon: bacr
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      I received this award as travel grant to attend and present my research work on "Development of Ex-vivo Drug Efficacy Platform for Solid Cancers Using 2D and 3D culture models" at the European Society for Medical Oncology Congress 2023 in Madrid, Spain. 
+  - title: UKRI Knowledge Exchange Grant
+    url: https://www.ukri.org/councils/research-england/our-funds-for-research-and-knowledge-exchange/
+    date: '2023-09-23'
+    awarder: UK Research and Innovation- Research England
+    icon: UKRI
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      I received this grant to conduct my research on the project titlted, "Ex vivo Determined Cancer Therapy (EVIDENT) in melanoma"
+  - title: 'Commonwealth PhD Scholarship'
+    url: https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/
+    date: '2021-07-01'
+    awarder: Commonwealth Scholarship Comission, UK
+    icon: CSC
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I received this fully funded scholarship to cover my tuition fees and living expenses during my placement as a PhD student at the University of Sheffield working on "Evaluation of Exvivo Drug Efficacy Assessment for Solid Cancers".
 ---
 
 ## About Me
-I am a physician from Bangladesh, currently working as Doctoral Researcher in Oncology and Metabolism at the University of Sheffield exploring personalized drug efficacy assessment to improve outcomes of advanced solid tumours. I have a multidisciplinary expertise and skillset in health disciplines ranging from molecular medicine to broader public health areas including health program evaluation and disease epidemiology. My former role as Deputy Program Manager at the Management Information System division of the Ministry of Health adn Family Welfare, Bangladesh I played a key role as a technical lead and  coordinator for the centralized surveillance system for COVID-19 and other routine health data systems including several national disease screening programs. I led and supervised several teams to gather, analyse and visualize screening, testing, and hospital data to formulate recommendation for policy decisions. I co-founded he largest social forum of Bangaladeshi doctors and medical students, Platform Doctor's Society where the members are working tirelessly in collaboration with government and non-government bodies in managing national emergency and crisis response, health policy evaluation and activism for physician and patient rights . My career and academic experience allow me to evaluate health issues both vertically focussing in-depth on specialized single events and horizontally focussing on multifactorial determinants and crosstalks.
+<div align="justify">I am a physician from Bangladesh, currently working as Doctoral Researcher in Oncology and Metabolism at the University of Sheffield exploring personalized drug efficacy assessment to improve outcomes of advanced solid tumours. I have a multidisciplinary expertise and skillset in health disciplines ranging from molecular medicine to broader public health areas including health program evaluation and disease epidemiology. 
 
-Outside my core academic and work focus, I am an advocate for scientific and rational medical practice. I develop contents for effective science communication debunking myths arround health issues.
+My former role as Deputy Program Manager at the Management Information System division of the Ministry of Health adn Family Welfare, Bangladesh I played a key role as a technical lead and  coordinator for the National COVID-19 surveillance and other routine health data systems including several national disease screening programs. I co-founded the largest social forum of Bangaladeshi doctors and medical students, Platform Doctor's Society where the members are working tirelessly in collaboration with government and non-government bodies in managing national emergency and crisis response, health policy evaluation and activism for physician and patient rights . My career and academic experience allow me to evaluate health issues both vertically focussing in-depth on specialized single events and horizontally focussing on multifactorial determinants and crosstalks.
+
+Outside my core academic and work focus, I am an advocate for scientific and rational medical practice. I develop contents for effective science communication debunking myths arround health issues.</div>
 
