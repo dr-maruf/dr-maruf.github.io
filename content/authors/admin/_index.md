@@ -442,7 +442,7 @@ awards:
     url: https://www.bacr.org.uk/bursaries/bacr-student-awards
     date: '2023-10-23'
     awarder: The British Association for Cancer Research
-    icon: bacr
+    icon: "custom/bacr"
     summary: |
       I received this award as travel grant to attend and present my research work on "Development of Ex-vivo Drug Efficacy Platform for Solid Cancers Using 2D and 3D culture models" at the European Society for Medical Oncology Congress 2023 in Madrid, Spain. 
   - title: UKRI Knowledge Exchange Grant
