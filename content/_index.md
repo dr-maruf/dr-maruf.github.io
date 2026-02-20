@@ -32,10 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📊 Decision Science & Analytics'
       subtitle: ''
       text: |-
-        Dr. Md. Marufur Rahman Opu is the Deputy Program Manager for the Center for Medical Biotechnology at the Management Information System division of DGHS. He has been playing a key role as a technical expert and coordinator for the centralized surveillance system for COVID-19 related data-management. He is leading a team to gather, analyse and visualize COVID-19 screening, testing, and hospital data used in policy decisions such as risk zone distributions. He is also a founding member of Platform, a non-profit voluntary group of Bangladeshi doctors, medical and dental students, who are working tirelessly in the DGHS control room, managing PPE for frontline healthcare workers and collecting plasma from recovered patients . He is an advocate for scientific and rational medical practice in Bangladesh.
+        Dr. Md Marufur Rahman is a healthcare decision scientist and physician-researcher with over 10 years of experience translating complex health data into evidence-based recommendations for senior decision-makers. Currently serving as **Senior Performance Measurement Specialist** at the Saskatchewan Ministry of Health, he reviews analytical outputs, critically appraises data visualizations, and prepares data-backed policy recommendations across Continuing Care, Mental Health & Addictions, and Acute Care programs.
+
+        His expertise spans **predictive modelling, statistical inference, machine learning**, and health system performance measurement. He holds a PhD in Medicine from the University of Sheffield, where he applied deep learning and multivariate statistical methods to clinical oncology data. He has led national-scale health information systems in collaboration with WHO, UNICEF, and UNDP, and brings direct experience with MoH–SHA Performance Agreements, CIHI indicators, and Saskatchewan's health system priorities.
+
+        He is also an advocate for science communication and AI innovation in public health — building custom agentic AI systems using Microsoft Copilot Studio and the Claude API to enhance healthcare analytics capacity.
     design:
       columns: '1'
   - block: collection

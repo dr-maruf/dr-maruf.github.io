@@ -11,7 +11,7 @@ last_name: Rahman
 
 # Status emoji
 status:
-  icon: 🇧🇩
+  icon: 🇨🇦
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,13 +20,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MBBS, MPH, MSc<br />
-      Doctoral Researcher
+role: MBBS, MPH, MSc, PhD<br />
+      Healthcare Decision Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: The University of Sheffield
-    url: https://www.sheffield.ac.uk
+  - name: Ministry of Health, Government of Saskatchewan
+    url: https://www.saskatchewan.ca/government/government-structure/ministries/health
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,341 +48,173 @@ profiles:
     url: https://orcid.org/0000-0002-2996-8109
 
 interests:
-  - Cancer Screening, Cancer Epidemiology, Clinical Oncology
-  - Personalized Oncology, Clinical Trial, Genomics
-  - Health Program Evaulation, Health Promotion, Science Communication
+  - Healthcare Decision Science & Advanced Analytics
+  - Predictive Modelling & Statistical Inference
+  - Health System Performance & Policy
+  - AI & Agentic Systems in Healthcare
+  - Cancer Epidemiology & Personalized Oncology
 
 education:
-  - area: PhD Oncology and Metabolism (Thesis Submission Stage)
-    institution: The University of Sheffield
+  - area: PhD in Medicine (Award Pending)
+    institution: The University of Sheffield, UK
     date_start: 2021-10-01
-    date_end: 
+    date_end: 2025-06-30
     summary: |
-      Thesis on _Exvivo efficacy assessment of targeted inhibitors and immunotherapies for solid cancers_. Supervised by [Prof Sarah Danson](https://www.sheffield.ac.uk/smph/people/clinical-medicine/sarah-danson). Presented abstract at 5 oncology conferences and published 1 paper with T&F journal.
+      Focus on clinical outcomes modelling, personalized cancer therapy, statistical analysis, and health technology assessment. Thesis on _Ex vivo efficacy assessment of targeted inhibitors and immunotherapies for solid cancers_. Supervised by [Prof Sarah Danson](https://www.sheffield.ac.uk/smph/people/clinical-medicine/sarah-danson). Funded by Commonwealth PhD Scholarship (2021–2025).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MSc Molecular Medicine (Clinical Applications)
-    institution: The University of Sheffield
+  - area: MSc in Molecular Medicine (Clinical Applications)
+    institution: The University of Sheffield, UK
     date_start: 2018-09-24
     date_end: 2019-10-09
     summary: |
       Awarded: Distinction
-      
-      Dissertation on _Health economic assessment and HRQoL analysis of haematopoietic stem cell transplantation at a UK transplant centre and its application to a developing nation_. Supervised by [Dr Andrew Chantry](https://www.researchgate.net/profile/Andrew-Chantry).
-     
+
+      Dissertation on _Service evaluation and HRQoL analysis of haematopoietic stem cell transplantation at a UK transplant centre and its application to a developing nation_. Supervised by [Dr Andrew Chantry](https://www.researchgate.net/profile/Andrew-Chantry).
+
       Courses included:
-      - Human Disease Genetics, Modulating Immunity, Research Literature Review 
-      - From Genome to Gene Function, Human Gene Bioinformatics, Laboratory Practice and Statistics 
-      - The Molecular Basis of Tumourigenesis and Metastasis, Molecular Techniques in Cancer Research
-      - Molecular Approaches to Cancer, Diagnosis and Treatment, Clinical Observation, Dissertation
-  - area: MPH Epidemiology
+      - Human Disease Genetics, Modulating Immunity, Research Literature Review
+      - Human Gene Bioinformatics, Laboratory Practice and Statistics
+      - Molecular Basis of Tumourigenesis, Molecular Techniques in Cancer Research
+      - Molecular Approaches to Cancer Diagnosis and Treatment, Clinical Observation
+  - area: Master of Public Health (Epidemiology)
     icon: custom/aiub
     institution: American International University-Bangladesh
     date_start: 2014-09-02
     date_end: 2016-01-08
     summary: |
       GPA: 3.96/4.0
-      
-      Dissertation on _Prevalence and Patterns of Substance Abuse among Medical students of Bangladesh_. Supervised by Prof Dr. Md. Nazrul Islam
-      
+
+      Dissertation on _Prevalence and Patterns of Substance Abuse among Medical Students of Bangladesh_.
+
       Courses included:
-      - Demography and population dynamics, Introduction to public health and nutrition, Research methodology for healthcare
-      - Epidemiology, Biostatistics, Health education rights and ethics, Reproductive health
-      - Healthcare system management, Healthcare project planning and financing, Health economics 
-      - Epidemiology of infectious diseases, Epidemiology of non communicable diseases, Dissertation
-  - area: MBBS
+      - Epidemiology, Biostatistics, Research Methodology for Healthcare
+      - Health Economics, Healthcare System Management, Healthcare Project Planning
+      - Epidemiology of Infectious and Non-Communicable Diseases
+  - area: MBBS (MD Equivalent)
     icon: custom/ssmc
-    institution: Sir Salimullah Medical College, University of Dhaka
-    date_start: 2014-01-10
+    institution: Sir Salimullah Medical College, University of Dhaka, Bangladesh
+    date_start: 2007-01-01
     date_end: 2012-12-10
     summary: |
-      Result: Passed (72%)
-      
       Courses included:
       - Anatomy, Physiology, Biochemistry
       - Forensic Medicine, Community Medicine, Microbiology, Pathology, Pharmacology
       - Medicine, Surgery, Obstetrics and Gynaecology
+
 work:
-  - position: Doctoral Researcher
-    company_name: The University of Sheffield
-    url: 'https://www.sheffield.ac.uk/'
-    date_start: 2021-10-01
+  - position: Senior Performance Measurement Specialist
+    company_name: Ministry of Health, Government of Saskatchewan
+    company_url: 'https://www.saskatchewan.ca/government/government-structure/ministries/health'
+    date_start: 2025-09-01
     date_end: ''
     summary: |2-
-      <strong> Project title: <br /> </strong>
-      - Exvivo efficacy assessment of targeted inhibitors and immunotherapies for solid cancers
+      <strong>Financial Services Branch — Continuing Care, Mental Health & Addictions, Acute Care</strong>
 
-      <strong> Responsibilities include:<br /> </strong>
-      <Strong> Research: </strong>
+      <strong>Responsibilities:</strong>
+      - Review and critically appraise analytical outputs, dashboards, and data visualizations for senior decision-makers
+      - Prepare data-backed policy recommendations across Continuing Care, Mental Health & Addictions, and Acute Care programs
+      - Conduct advanced statistical modelling, trend analysis, and performance measurement
+      - Collaborate with SHA, CIHI, and cross-branch stakeholders on performance agreements and reporting frameworks
+      - Contribute to Ministry Business Plan, Tactical Plan, and Strategic Plan deliverables aligned with Better Results, Quality, and Patient Experience initiatives
+
+  - position: Doctoral Researcher
+    company_name: The University of Sheffield, UK
+    company_url: 'https://www.sheffield.ac.uk/'
+    date_start: 2021-10-01
+    date_end: 2025-06-30
+    summary: |2-
+      <strong>Division of Clinical Medicine — EVIDENT Project</strong>
+
       <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/welleday.jpg?raw=true" alt="welleday" width="300" height="225" style="float: right; margin: 5px;">
-      - Develop and conduct pre-clinical research experiments as part of Ex vivo determined cancer therapy (EVIDENT) project including drug screening, 2D and 3D cell culture, fluorescence imaging, spatial imaging, ex-vivo drug efficacy assessment.
-      - Identify current research gaps related to the project, compile data from earlier research, generate data through lab experiments
-      - Prepare reports, protocols, manuscripts as appropriate
 
-      <Strong> Teaching: </strong>
-      - MBChB SSC Research Placement: Provide training on laboratory techniques and mentoring on project report writing.
+      <strong>Research:</strong>
+      - Designed and applied statistical and machine learning models for clinical outcome data analysis
+      - Conducted multivariate statistical analysis on observational health data
+      - Trained VGG19-based deep neural network for biological imaging classification
+      - Led pre-clinical research including drug screening, 2D/3D cell culture, fluorescence and spatial imaging
+      - Prepared research reports, protocols, and peer-reviewed manuscripts
 
-      <strong> Grants: <br /> </strong>
-      - UK Research and Innovation- Knowledge Exchange Fund: Ex vivo Determined Cancer Therapy (EVIDENT) in melanoma (£ 10,890.67)
-      - Commonwealth PhD Scholarship: Evaluation of ex vivo screening methodology (£ 158,685)
+      <strong>Teaching:</strong>
+      - MBChB SSC Research Placement: training on laboratory techniques and project report mentoring
 
-      <strong> Awards: <br /> </strong>
-      - BACR/AstraZeneca Student Awards
+      <strong>Grants:</strong>
+      - UKRI Knowledge Exchange Fund: Ex vivo Determined Cancer Therapy (EVIDENT) in melanoma (£10,890.67)
+      - Commonwealth PhD Scholarship (£158,685)
+
+      <strong>Awards:</strong>
+      - BACR/AstraZeneca Student Award (2023)
       - OM Departmental Travel Fund
 
-      <strong> Conferences: <br /> </strong>
-      <strong>Talks:</strong>
-      - PGR Symposium 2024: The University of Sheffield
-      - School of Medicine and Population Health Annural Research Meeting 2024: The University of Sheffield
-      - Commonwealth PhD Conference 2024: Cumberland Lodge, UK
-
-      <strong> Posters: <br /> </strong>
-      - European Society for Medical Oncology Congress, October 2023, Barcelona, Spain
-      - BACR Tumour Microenvironment & 3D Model Workshop, September 2023, Nottingham, UK
-      - PGR Symposium 2023, July 2023, The University of Sheffield
-      - BACR Trailblazers in Cancer Research: The Next Generation, June 2023, Manchester, UK
-      - Melanoma Focus Virtual Regional Meeting 2023, May 2023, Virtual
-
-      <strong> Attendance: <br /> </strong>
-
-      <strong> Licenses: <br /> </strong>
-      - Research and Human Tissue Legislation, Medical Research
-      - Full Registration as Medical Practitioner, Bangladesh Medical and Dental Council
-      
-      <strong> Memberships: <br /> </strong>
-      - British Association for Cancer Research
-      - European Association for Cancer Research
-      - European Society for Medical Oncology
-      - UK Cell Adhesion Society
-
-      <strong> Published articles: <br /> </strong>
-      - <a href="https://www.tandfonline.com/doi/full/10.1080/1744666X.2024.2336583">In-vitro assays for immuno-oncology drug efficacy assessment and screening for personalized cancer therapy: scopes and challenges</a>
+      <strong>Selected Publications:</strong>
+      - <a href="https://www.tandfonline.com/doi/full/10.1080/1744666X.2024.2336583">In-vitro assays for immuno-oncology drug efficacy assessment and screening for personalized cancer therapy</a>
       - <a href="https://www.annalsofoncology.org/article/S0923-7534(23)02166-X/fulltext">Efficacy assessment of targeted and immunotherapies for personalised treatment of melanoma using 2D and 3D ex-vivo assays</a>
 
-  - position: Deputy Program Manager (Medical Biotechnology) & Investigator
-    company_name: 'Centre for Medical Biotechnology, Directorate General of Health Services, Dhaka, Bangladesh'
+  - position: Deputy Program Manager – Health Information Systems & eHealth
+    company_name: Ministry of Health & Family Welfare, Government of Bangladesh
     company_url: 'https://www.dghs.gov.bd/'
     company_logo: 'custom/cmbt'
     date_start: 2020-03-08
     date_end: 2021-10-12
     summary: |
-      <strong> Project title: <br /> </strong>
-      - National COVID-19 Vaccine Deployment and Preparedness
-      - National COVID-19 Surveillance System
-      - Bioinformatic Analysis of SARS-COV-2 Variants in Bangladesh
-      - National Medical Biotechnology Workplan Implementation
-      - Feasibility Study of National Newborn Screening for Congenital Hypothyroidism
-      - Global Burden of Disease Study 2019
-      - A Study of Thalassaemia Diagnosis, Optimal Treatment, Outcome and Socio-economic Consequences in Bangladesh
-      - Health System Strenghthening: Healthcare Facility performance evaluation
-      - Risk Communication and Advocacy
-     
-      
-      Responsibilities include:
+      <strong>Centre for Medical Biotechnology, Directorate General of Health Services</strong>
+
       <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/nilmrc.JPG?raw=true" alt="nilmrc" width="300" height="225" style="float: right; margin: 5px;">
-      - Develop tools, SOPs and deployment strategies for individual projects.
-      - Prepare training material and train appropriate stakeholders of individual projects
-      - Monitor and evaluate project performance
-      - Manage finance and workforce involved
-      - Plan data collection and analyse results.
-      - Prepare reports, protocols, manuscripts as appropriate.
-      - Develop and disseminate communication materials for public and stakeholders using mass media and advocacy discussions.
-      - Monitor SOP compliance and verify laboratory results
-      
-  - position: Medical Officer (Medical Biotechnology)
-    company_name: 'Centre for Medical Biotechnology, Directorate General of Health Services, Dhaka, Bangladesh'
+
+      <strong>Key Projects:</strong>
+      - National COVID-19 Vaccine Deployment and Preparedness
+      - National COVID-19 Surveillance System (170M+ population)
+      - Bioinformatic Analysis of SARS-CoV-2 Variants in Bangladesh
+      - Facility-level Performance Evaluation Framework (450+ healthcare facilities)
+      - Global Burden of Disease Study 2019
+      - Health System Strengthening (WHO-supported)
+
+      <strong>Responsibilities:</strong>
+      - Led development of COVID-19 surveillance and performance reporting frameworks
+      - Designed tools, SOPs, and deployment strategies for national health programs
+      - Collaborated with WHO on healthcare facility performance assessment tools
+      - Managed finance and workforce, monitored SOP compliance
+      - Developed and disseminated public communication materials
+
+  - position: Medical Officer – Health Systems Monitoring & Performance
+    company_name: Directorate General of Health Services, Bangladesh
     company_url: 'https://www.dghs.gov.bd/'
     company_logo: custom/dghs
-    date_start: 2020-01-06
-    date_end: 2020-03-08
-    summary: |
-      <strong> Projects: <br /> </strong>
-      - Bioinformatic analysis of SARS-COV-2 variants in Bangladesh
-      - National COVID-19 Vaccine Deployment and Preparedness
-      - Global burden of disease study 2019
-      - Feasibility Study of National Newborn Screening for Congenital Hypothyroidism
-      
-      Responsibilities include:
-      <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/cmbt.jpg?raw=true" alt="cmbt" width="300" height="225" style="float: right; margin: 5px;">
-      - Compile data from earlier research, analyse data from National COVID-19 surveillance database and other public databases including GISAID, formulate hypothesis.
-      - Run bioinformatic and computational analysis of SARS-CoV-2 genomic data.
-      - Conduct SARS-CoV-2 serological survey in lab, take patient interview.
-      - Conduct feasibility
-      - Analyse other public health data from national database, surveys and other sources. Formulate and validate qualitative and quantitative survey tools.
-      - Prepare reports, content analysis and manuscripts.
-      
-  - position: Post Graduate Student Researcher
-    company_name: 'The University of Sheffield'
-    company_url: 'https://www.sheffield.ac.uk/'
-    company_logo: custom/uos
-    date_start: 2019-02-15
-    date_end: 2019-09-05
-    summary: |
-      <strong> Projects: </strong>
-      - Health economic assessment and HRQoL analysis of haematopoietic stem cell transplantation at a UK transplant centre and its application to a developing nation
-
-      Responsibilities include: 
-      <!--<br />
-      <body>
-      <meta name="viewport" content="width=300px, initial-scale=1">
-       <style>
-      * {box-sizing: border-box;}
-       body {font-family: Verdana, sans-serif;}
-       .mySlides {display: none;}
-       img {vertical-align: middle;}
-
-      /* Slideshow container */
-      .slideshow-container {
-        max-width: 300px;
-        float: right;
-        margin: 5px; 
-      }
-
-      /* Caption text */
-      .text {
-        color: #000000;
-        font-size: 15px;
-        padding: 8px 12px;
-        position: relative;
-        bottom: 8px;
-        width: 100%;
-        text-align: center;
-      }
-
-      /* Number text (1/3 etc) */
-      .numbertext {
-        color: #f2f2f2;
-        font-size: 12px;
-        padding: 8px 12px;
-        position: absolute;
-        top: 6;
-      }
-
-      /* The dots/bullets/indicators */
-      .dot {
-        height: 15px;
-        width: 15px;
-        margin: 0 2px;
-        background-color: #bbb;
-        border-radius: 50%;
-        display: inline-block;
-        transition: background-color 0.6s ease;
-      }
-
-      .active {
-        background-color: #717171;
-      }
-
-      /* Fading animation */
-      .fade {
-        animation-name: fade;
-        animation-duration: 1.5s;
-      }
-
-      @keyframes fade {
-        from {opacity: .4} 
-        to {opacity: 1}
-      }
-
-      /* On smaller screens, decrease text size */
-      @media only screen and (max-width: 300px) {
-        .text {font-size: 11px}
-      }
-      </style>
-
-      <div class="slideshow-container">
-      <div class="mySlides fade">
-        <div class="numbertext">1 / 4</div>
-        <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/msc1.jpg?raw=true" style="width:100%">
-        <div class="text">MSc Dissertation Supervisor</div>
-      </div>
-
-      <div class="mySlides fade">
-        <div class="numbertext">2 / 3</div>
-        <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/msc2.jpg?raw=true" style="width:100%">
-        <div class="text">MSc MolMed Cohort 2018</div>
-      </div>
-
-      <div class="mySlides fade">
-        <div class="numbertext">3 / 3</div>
-        <img src="https://media.licdn.com/dms/image/D5622AQEB_eadJ6_qTA/feedshare-shrink_2048_1536/0/1717517465789?e=1723075200&v=beta&t=oQ1G_FuKDmB3LFr7R-4QpvxFT9XDzB6U9z-jMDsUclc" style="width:100%">
-        <div class="text">Caption Three</div>
-      </div>
-
-      </div>
-      <br>
-
-      <div style="text-align:center">
-        <span class="dot"></span> 
-        <span class="dot"></span> 
-        <span class="dot"></span> 
-      </div>
-
-      <script>
-      let slideIndex = 0;
-      showSlides();
-
-      function showSlides() {
-        let i;
-        let slides = document.getElementsByClassName("mySlides");
-        let dots = document.getElementsByClassName("dot");
-        for (i = 0; i < slides.length; i++) {
-          slides[i].style.display = "none";  
-        }
-        slideIndex++;
-        if (slideIndex > slides.length) {slideIndex = 1}    
-        for (i = 0; i < dots.length; i++) {
-          dots[i].className = dots[i].className.replace(" active", "");
-        }
-        slides[slideIndex-1].style.display = "block";  
-        dots[slideIndex-1].className += " active";
-        setTimeout(showSlides, 2000); // Change image every 2 seconds
-      }
-      </script>
-      </body>
-      <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/cmbt.jpg?raw=true" alt="cmbt" width="300" height="225" style="float: right; margin: 5px;">--->
-      - Literature review
-      - Develop and validate appropriate questionnaire with qualitative and quantitative components
-      - Conduct patient inteview and collect patient data
-      - Analyse data, prepare report
-
-  - position: Medical Officer
-    company_name: 'Centre for Medical Biotechnology, Management Information System, Directorate General of Health Services, Dhaka, Bangladesh'
-    company_url: 'https://www.dghs.gov.bd/'
-    company_logo: custom/cmbt
     date_start: 2016-11-16
     date_end: 2018-09-20
     summary: |
-      <strong> Projects: 
+      <strong>Centre for Medical Biotechnology, Management Information System</strong>
+
+      <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/cmbt.jpg?raw=true" alt="cmbt" width="300" height="225" style="float: right; margin: 5px;">
+
+      <strong>Projects:</strong>
       - National Health Bulletin
-      - Health System Strengthening project aided by the World Health Organization
-      - Routine Health Data- DHIS2
+      - Health System Strengthening (WHO-supported)
+      - Routine Health Data — DHIS2
 
-      Responsibilities include:
-      <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/cmbt.jpg?raw=true" alt="cmbt" width="300" height="225" style="float: right; margin: 5px;">
-      - Monitor routine health data and train on reporting through national health data management system (DHIS2 software)
-      - Develop and validate appropriate tools for health system performance evaluation of healthcare facilities
-      - Train physicians on basic laboratory techniques used in medical biotechnology
-      - Analyse data, prepare report, prepare annual national health bulletin as managing editor
+      <strong>Responsibilities:</strong>
+      - Led design of facility performance evaluation tools across national health system
+      - Monitored routine health data and trained staff on DHIS2 reporting
+      - Analysed national health data and prepared annual National Health Bulletin (Managing Editor)
+      - Trained physicians on laboratory and analytical techniques
 
-  - position: Post Graduate Student Researcher
-    company_name: 'American International University-Bangladesh '
-    company_url: 'https://www.aiub.edu/'
-    company_logo: custom/aiub
-    date_start: 2015-06-06
-    date_end: 2016-01-08
+  - position: Technical Consultant – Digital Health & Performance Frameworks
+    company_name: WHO, UNICEF, UNDP, GIZ, University of Oslo-supported Projects
+    date_start: 2016-01-01
+    date_end: 2022-12-31
     summary: |
-      <strong> Projects: 
-      - Prevalence and Pattern of Substance Abuse among Medical Students in Bangladesh
+      - Provided technical expertise in national health information systems design and implementation
+      - Developed digital health frameworks and performance monitoring tools for international organizations
 
-      Responsibilities include:
-      <img src="https://github.com/dr-maruf/dr-maruf.github.io/blob/main/assets/media/cmbt.jpg?raw=true" alt="cmbt" width="300" height="225" style="float: right; margin: 5px;">
-      - Monitor routine health data and train on reporting through national health data management system (DHIS2 software)
-      - Develop and validate appropriate tools for health system performance evaluation of healthcare facilities
-      - Train physicians on basic laboratory techniques used in medical biotechnology
-      - Analyse data, prepare report, prepare annual national health bulletin as managing editor
-
+  - position: Medical Officer (Subdistrict Clinical Lead)
+    company_name: Upazila Health Complex, DGHS, Bangladesh
+    company_url: 'https://www.dghs.gov.bd/'
+    date_start: 2014-08-01
+    date_end: 2016-11-15
+    summary: |
+      - Delivered clinical and preventive healthcare services as subdistrict clinical lead
+      - Managed community health programs and primary care delivery
 
 sections:
   - block: 'github.dr-maruf.ripendil'
@@ -396,19 +228,23 @@ sections:
 skills:
   - name: Technical Skills
     items:
-      - name: R
-        description: ''
-        percent: 80
+      - name: R & Python
+        description: 'Statistical modelling, data wrangling, machine learning'
+        percent: 85
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Advanced Analytics & Modelling
+        description: 'Predictive modelling, statistical inference, time-series analysis'
+        percent: 90
         icon: chart-bar
-      - name: Graphpad Prism
-        description: ''
-        percent: 40
+      - name: Tableau & Power BI
+        description: 'Data visualization and executive dashboards'
+        percent: 80
         icon: circle-stack
-  - name: Hobbies
+      - name: AI & LLM Agents
+        description: 'Microsoft Copilot Studio, Claude API, open-source frameworks'
+        percent: 75
+        icon: cpu-chip
+  - name: Interests
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -416,14 +252,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: Science Communication
+        description: ''
+        percent: 90
+        icon: megaphone
 
 languages:
   - name: English
@@ -434,37 +270,41 @@ languages:
     percent: 40
 
 # Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: BACR/AstraZeneca Student Awards
+  - title: Commonwealth PhD Scholarship
+    url: https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/
+    date: '2021-07-01'
+    awarder: Commonwealth Scholarship Commission, UK
+    icon: CSC
+    summary: |
+      Fully funded scholarship (£158,685) covering tuition fees and living expenses for PhD research at the University of Sheffield on "Evaluation of Ex vivo Drug Efficacy Assessment for Solid Cancers".
+  - title: UKRI Knowledge Exchange Research Grant
+    url: https://www.ukri.org/councils/research-england/our-funds-for-research-and-knowledge-exchange/
+    date: '2023-09-23'
+    awarder: UK Research and Innovation — Research England
+    icon: UKRI
+    summary: |
+      Awarded to conduct research on the project "Ex vivo Determined Cancer Therapy (EVIDENT) in melanoma" (£10,890.67).
+  - title: BACR/AstraZeneca Student Award
     url: https://www.bacr.org.uk/bursaries/bacr-student-awards
     date: '2023-10-23'
     awarder: The British Association for Cancer Research
     icon: "custom/bacr"
     summary: |
-      I received this award as travel grant to attend and present my research work on "Development of Ex-vivo Drug Efficacy Platform for Solid Cancers Using 2D and 3D culture models" at the European Society for Medical Oncology Congress 2023 in Madrid, Spain. 
-  - title: UKRI Knowledge Exchange Grant
-    url: https://www.ukri.org/councils/research-england/our-funds-for-research-and-knowledge-exchange/
-    date: '2023-09-23'
-    awarder: UK Research and Innovation- Research England
-    icon: UKRI
+      Travel grant to present research on "Development of an Ex vivo Drug Efficacy Platform for Solid Cancers Using 2D and 3D Culture Models" at the European Society for Medical Oncology Congress 2023, Barcelona, Spain.
+  - title: Bangladesh Prime Minister's Fellowship Award
+    date: '2019-01-01'
+    awarder: Government of Bangladesh
     summary: |
-      I received this grant to conduct my research on the project titlted, "Ex vivo Determined Cancer Therapy (EVIDENT) in melanoma"
-  - title: 'Commonwealth PhD Scholarship'
-    url: https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/
-    date: '2021-07-01'
-    awarder: Commonwealth Scholarship Comission, UK
-    icon: CSC
-    summary: |
-      I received this fully funded scholarship to cover my tuition fees and living expenses during my placement as a PhD student at the University of Sheffield working on "Evaluation of Exvivo Drug Efficacy Assessment for Solid Cancers".
+      Awarded in recognition of academic excellence and contribution to health research.
 ---
 
 ## About Me
-<div align="justify">I am a physician from Bangladesh, currently working as Doctoral Researcher in Oncology and Metabolism at the University of Sheffield exploring personalized drug efficacy assessment to improve outcomes of advanced solid tumours. I have a multidisciplinary expertise and skillset in health disciplines ranging from molecular medicine to broader public health areas including health program evaluation and disease epidemiology. 
 
-My former role as Deputy Program Manager at the Management Information System division of the Ministry of Health adn Family Welfare, Bangladesh I played a key role as a technical lead and  coordinator for the National COVID-19 surveillance and other routine health data systems including several national disease screening programs. I co-founded the largest social forum of Bangaladeshi doctors and medical students, Platform Doctor's Society where the members are working tirelessly in collaboration with government and non-government bodies in managing national emergency and crisis response, health policy evaluation and activism for physician and patient rights . My career and academic experience allow me to evaluate health issues both vertically focussing in-depth on specialized single events and horizontally focussing on multifactorial determinants and crosstalks.
+<div align="justify">I am a healthcare decision scientist and physician-researcher with over 10 years of experience translating complex health data into evidence-based recommendations for senior decision-makers. Currently serving as Senior Performance Measurement Specialist at the Saskatchewan Ministry of Health, I review analytical outputs, critically appraise data visualizations, and prepare data-backed policy recommendations across Continuing Care, Mental Health & Addictions, and Acute Care programs.
 
-Outside my core academic and work focus, I am an advocate for scientific and rational medical practice. I develop contents for effective science communication debunking myths arround health issues.</div>
+I hold a PhD in Medicine from the University of Sheffield (award pending), where I applied statistical modelling, machine learning, and clinical data analysis to personalized cancer therapy research. My earlier role as Deputy Program Manager for Health Information Systems at Bangladesh's Ministry of Health saw me lead national COVID-19 surveillance systems and facility-level performance evaluation frameworks across 450+ healthcare facilities in collaboration with WHO, UNICEF, and UNDP.
 
+My core competencies span predictive modelling and statistical inference, advanced analytics (R, Python, Tableau, Power BI), health system performance measurement, and AI/agentic systems — including building custom AI agents using Microsoft Copilot Studio and the Claude API. I bring a cross-organizational perspective, strong stakeholder engagement skills, and a deep commitment to evidence-based, patient-centred healthcare improvement.
+
+Outside my professional focus, I am an advocate for science communication and rational medical practice, regularly developing content to help the public navigate complex health issues.</div>
