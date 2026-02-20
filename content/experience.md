@@ -1,6 +1,6 @@
 ---
-title: 'Research Experience'
-Subtitle: Research Experience
+title: 'Professional Experience'
+subtitle: 'Career & Research History'
 date: 2023-10-24
 type: landing
 
@@ -13,7 +13,7 @@ design:
 sections:
   - block: resume-experience
     content:
-      title: Research Experience
+      title: Professional Experience
       username: admin
     design:
       # Hugo date format
@@ -22,20 +22,16 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills & Expertise
       username: admin
     design:
       show_skill_percentage: false
   - block: resume-awards
     content:
-      title: Awards
+      title: Awards & Grants
       username: admin
   - block: resume-languages
     content:
       title: Languages
       username: admin
-  - block: 'github.dr-maruf.ripendil'
-    content:
-      title: Clinical Experience
-      text: Abcd
 ---
