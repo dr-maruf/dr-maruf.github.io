@@ -147,9 +147,31 @@ work:
       - BACR/AstraZeneca Student Award (2023)
       - OM Departmental Travel Fund
 
+      <strong>Selected Conferences (9 total — 2 oral, 7 poster):</strong>
+      - 10th Annual Saskatchewan Cancer Research Conference, Jun 2025, Saskatoon, Canada 🇨🇦 (poster)
+      - Commonwealth Scholarship Commission PhD Conference, Jun 2024, Windsor, UK (oral)
+      - SMPH Annual Research Meeting 2024, Jun 2024, Sheffield, UK (oral)
+      - ESMO Congress 2023, Oct 2023, Madrid, Spain (poster)
+      - BACR Tumour Microenvironment & 3D Model Workshop, Jul 2023, Nottingham (poster)
+      - BACR Trailblazers in Cancer Research, Jun 2023, Manchester (poster)
+      - Medical School PGR Symposium 2023, Sheffield (poster)
+      - Melanoma Focus Virtual Regional Meeting, May 2023, Virtual (poster)
+      - UoS Medical School Research Meeting, Jun 2022, Sheffield (poster)
+
       <strong>Selected Publications:</strong>
-      - <a href="https://www.tandfonline.com/doi/full/10.1080/1744666X.2024.2336583">In-vitro assays for immuno-oncology drug efficacy assessment and screening for personalized cancer therapy</a>
-      - <a href="https://www.annalsofoncology.org/article/S0923-7534(23)02166-X/fulltext">Efficacy assessment of targeted and immunotherapies for personalised treatment of melanoma using 2D and 3D ex-vivo assays</a>
+      - <a href="https://doi.org/10.1080/1744666X.2024.2336583">In-vitro assays for immuno-oncology drug efficacy assessment and screening for personalized cancer therapy</a> — <em>Expert Review of Clinical Immunology</em>, 2024
+      - <a href="https://doi.org/10.1016/j.annonc.2023.09.1329">Efficacy assessment of targeted and immunotherapies for personalised treatment of melanoma using 2D and 3D ex-vivo assays</a> — <em>Annals of Oncology</em>, 2023
+      - <a href="https://doi.org/10.1038/s41419-024-07271-8">SENP3-FIS1 axis promotes mitophagy and cell survival under hypoxic conditions</a> — <em>Cell Death & Disease</em>, 2024
+      - Optimising spheroid formation and 3D co-culture assay for precision immunotherapy in solid cancers — <em>Frontiers in Immunology</em> (Under Review)
+
+      <strong>Peer Review:</strong>
+      - IJID Regions (Elsevier) — 1 article reviewed
+      - East West Medical College Journal — 2 articles reviewed
+
+      <strong>Science Communication:</strong>
+      - Creates and shares scientific microscopy artworks on X, Facebook, and Instagram to promote public engagement with science
+      - Presented in online webinar sessions on "research ethics", "data management", and "higher study abroad"
+      - Member of editorial team, clinical journal (Bangladesh)
 
   - position: Deputy Program Manager – Health Information Systems & eHealth
     company_name: Ministry of Health & Family Welfare, Government of Bangladesh
@@ -297,6 +319,20 @@ awards:
     awarder: Government of Bangladesh
     summary: |
       Awarded in recognition of academic excellence and contribution to health research.
+  - title: OM Departmental Travel Fund
+    date: '2023-06-01'
+    awarder: Division of Clinical Medicine, University of Sheffield
+    summary: |
+      Travel award supporting attendance and presentation at international oncology conferences during PhD research.
+
+# Peer Review & Editorial
+peer_review:
+  - journal: IJID Regions
+    publisher: Elsevier
+    articles_reviewed: 1
+  - journal: East West Medical College Journal
+    publisher: East West Medical College Hospital, Dhaka, Bangladesh
+    articles_reviewed: 2
 ---
 
 ## About Me
@@ -307,4 +343,4 @@ I hold a PhD in Medicine from the University of Sheffield (award pending), where
 
 My core competencies span predictive modelling and statistical inference, advanced analytics (R, Python, Tableau, Power BI), health system performance measurement, and AI/agentic systems — including building custom AI agents using Microsoft Copilot Studio and the Claude API. I bring a cross-organizational perspective, strong stakeholder engagement skills, and a deep commitment to evidence-based, patient-centred healthcare improvement.
 
-Outside my professional focus, I am an advocate for science communication and rational medical practice, regularly developing content to help the public navigate complex health issues.</div>
+Beyond my professional roles, I am an active science communicator — sharing microscopy-based scientific artworks and health commentary on social media, presenting webinars on research ethics and higher study pathways, and serving on the editorial board of a clinical journal in Bangladesh. I have presented my research at 9 national and international conferences (including ESMO 2023 in Madrid and the Commonwealth PhD Conference at Windsor), and peer-review for journals including IJID Regions (Elsevier). I am also exploring postdoctoral opportunities at Canadian universities and actively communicating with research groups in my areas of interest.</div>
