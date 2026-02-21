@@ -12,12 +12,13 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: |-
+        A selection of decision science, health systems, and clinical research projects spanning my career in government, academia, and international health. Projects span health system performance measurement, national surveillance systems, clinical outcomes research, cancer drug screening, and independent data science work.
       filters:
         folders:
           - project
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
 ---
