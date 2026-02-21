@@ -21,7 +21,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: MBBS, MPH, MSc, PhD<br />
-      Healthcare Decision Scientist
+      Senior Performance Measurement Specialist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -199,7 +199,7 @@ work:
       - Managed finance and workforce, monitored SOP compliance
       - Developed and disseminated public communication materials
 
-  - position: Medical Officer – Health Systems Monitoring & Performance
+  - position: Medical Officer – Health Information System & eHealth
     company_name: Directorate General of Health Services, Bangladesh
     company_url: 'https://www.dghs.gov.bd/'
     company_logo: custom/dghs
@@ -270,7 +270,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Traveling
         description: ''
         percent: 60
         icon: person-simple-walk
