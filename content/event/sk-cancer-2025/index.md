@@ -1,8 +1,8 @@
 ---
-title: "Performance Measurement in Cancer Care: Analytics-Driven Insights from Saskatchewan"
+title: "Ex-vivo efficacy assessment using 2D and 3D culture assays for personalised cancer therapy"
 
 event: 10th Annual Saskatchewan Cancer Research Conference 2025
-event_url: https://www.saskatoonhealthregion.ca/
+event_url: https://research-groups.usask.ca/cancercluster/conference/2025.php
 
 location: Saskatoon, Saskatchewan, Canada
 address:
@@ -10,10 +10,10 @@ address:
   region: Saskatchewan
   country: Canada
 
-summary: Poster presentation on population-level cancer care performance measurement at the 10th Annual Saskatchewan Cancer Research Conference.
+summary: Poster presentation on ex-vivo cell culture and image based drug efficacy assessment for precision cancer therapy at the 10th Annual Saskatchewan Cancer Research Conference.
 
 abstract: |
-  This poster presented analytical work from the Saskatchewan Ministry of Health examining population-level cancer care performance indicators across acute and continuing care programs. Methods included longitudinal trend analysis, benchmarking against CIHI indicators, and data visualisation approaches for communicating complex health system metrics to senior decision-makers and clinical stakeholders.
+DOI: 10.13140/RG.2.2.35640.00008
 
 date: '2025-06-01T09:00:00Z'
 date_end: '2025-06-01T17:00:00Z'
@@ -25,10 +25,10 @@ authors:
   - admin
 
 tags:
-  - Population Health
+  - 2D, 3D co-culture
   - Cancer Research
-  - Health System Performance
-  - Saskatchewan
+  - Personalised Cancer Therapy
+  - Ex-vivo Drug Screening
   - Poster Presentation
 
 featured: false
@@ -54,6 +54,6 @@ projects:
 
 **Venue:** Saskatoon, Saskatchewan, Canada 🇨🇦 · June 2025
 
-Poster presentation at the 10th Annual Saskatchewan Cancer Research Conference, showcasing performance measurement and analytics work conducted at the Saskatchewan Ministry of Health.
+Poster presentation on ex-vivo cell culture and image based drug efficacy assessment for precision cancer therapy at the 10th Annual Saskatchewan Cancer Research Conference.
 
 > To add a photo from this conference, place an image file named `featured.jpg` or `featured.png` in this folder (`content/event/sk-cancer-2025/`).
