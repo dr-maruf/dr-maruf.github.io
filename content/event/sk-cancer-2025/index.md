@@ -1,0 +1,59 @@
+---
+title: "Performance Measurement in Cancer Care: Analytics-Driven Insights from Saskatchewan"
+
+event: 10th Annual Saskatchewan Cancer Research Conference 2025
+event_url: https://www.saskatoonhealthregion.ca/
+
+location: Saskatoon, Saskatchewan, Canada
+address:
+  city: Saskatoon
+  region: Saskatchewan
+  country: Canada
+
+summary: Poster presentation on population-level cancer care performance measurement at the 10th Annual Saskatchewan Cancer Research Conference.
+
+abstract: |
+  This poster presented analytical work from the Saskatchewan Ministry of Health examining population-level cancer care performance indicators across acute and continuing care programs. Methods included longitudinal trend analysis, benchmarking against CIHI indicators, and data visualisation approaches for communicating complex health system metrics to senior decision-makers and clinical stakeholders.
+
+date: '2025-06-01T09:00:00Z'
+date_end: '2025-06-01T17:00:00Z'
+all_day: true
+
+publishDate: '2025-06-01T00:00:00Z'
+
+authors:
+  - admin
+
+tags:
+  - Population Health
+  - Cancer Research
+  - Health System Performance
+  - Saskatchewan
+  - Poster Presentation
+
+featured: false
+
+image:
+  caption: '10th Annual Saskatchewan Cancer Research Conference, Saskatoon, Canada'
+  focal_point: Smart
+  # To add your image: place a file named "featured.jpg" or "featured.png"
+  # in this folder: content/event/sk-cancer-2025/
+
+url_slides: ''
+url_pdf: ''
+url_video: ''
+url_code: ''
+
+projects:
+  - continuing-care-performance
+---
+
+**Presentation type:** Poster
+
+**Event:** 10th Annual Saskatchewan Cancer Research Conference
+
+**Venue:** Saskatoon, Saskatchewan, Canada 🇨🇦 · June 2025
+
+Poster presentation at the 10th Annual Saskatchewan Cancer Research Conference, showcasing performance measurement and analytics work conducted at the Saskatchewan Ministry of Health.
+
+> To add a photo from this conference, place an image file named `featured.jpg` or `featured.png` in this folder (`content/event/sk-cancer-2025/`).
